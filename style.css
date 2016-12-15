@@ -1,0 +1,191 @@
+
+
+body{
+  border-top: 3px solid #252525;
+  background:#252525;
+  margin: 0;
+  overflow-x:hidden;
+}
+
+.main-container {
+  background-color: white;
+  width: 100%;
+}
+
+.header-wrap {
+  height: 150px;
+}
+
+.logo {
+  font-size: 30px;
+  margin-top: 57px;
+  width: 600px;
+  float: left;
+}
+
+.socialMedia {
+  float: right;
+  padding: 62px;
+  /*margin: 70px 100px 0 4px;*/
+}
+
+.media-icon {
+  background: url(social-media-icons-sprite.png);
+  width:25px;
+  height:25px;
+  display:inline-block;
+}
+
+.twitter {
+  background-position: -53px 0;
+}
+
+.facebook {
+  background-position: 0 0;
+}
+
+.mail {
+  background-position: -100px 0;
+}
+
+hr {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+
+}
+
+.topnav-wrap li {
+  display: inline-block;
+  margin-right: 20px;
+  padding-bottom: 11px
+}
+
+.topnav-wrap li:hover {
+  border-bottom: 2px solid #608ecc;
+}
+
+.supporting-pg-list li {
+  margin: 0 0 20px 0;
+}
+
+.navbar{
+  list-style: none;
+  height:25px;
+  padding-top: 5px;
+}
+
+.banner-wrap {
+  background-color: #f3f3f3;
+  display: block;
+  padding: 50px 0;
+
+}
+
+.banner-container {
+  height: 173px;
+  background: url(house-banner.jpg);
+  border-bottom: 4px solid #608ecc;
+}
+
+.pic-par-container {
+  padding: 50px 0;
+}
+
+.mini-container {
+  width: 900px;
+  margin: 0px auto;
+}
+
+.paragraph {
+  margin-bottom: 21px;
+  text-align: center;
+}
+
+.supporting-pg-paragraph {
+  text-align: left;
+  padding: 30px;
+  margin: 0 0 50px 0;
+}
+
+.strong-ele {
+  margin-top: 10px 0 10px 0;
+}
+
+.picture-paragraph {
+  text-align: left;
+}
+
+.last-sec-para {
+  padding: 10px 0px;
+  text-align: left;
+}
+
+.picture-left {
+  margin: 30px;
+  padding-top: 10px;
+  width: 30%;
+  float: left;
+}
+
+.text-right-side {
+  float: right;
+  width: 62%;
+  margin: 25px auto;
+}
+
+.clear {
+  clear: both;
+}
+
+.footer-wrap {
+  background: #252525 url("footer-arrow.png") center top no-repeat;
+  padding:70px;
+  width:100%;
+  margin-top: 70px;
+  margin-right:0;
+  margin-bottom:0;
+  margin-left: 0;
+}
+
+.copyright {
+  text-align:center;
+  color: white;
+  margin: 0 auto;
+}
+
+.socialMedia span {
+  display: inline-block;
+}
+
+
+
+.title-red {
+  color: #ed2655;
+  float:left;
+}
+
+.recent-developments {
+  color: #ed2655;
+}
+
+.title-black {
+  color; #4a4a4a;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+   color: #666666;
+}
+.selected {
+  border-bottom: 2px solid #608ecc;
+  padding-bottom: 11px
+}
+
+strong {
+  font-size: 16px;
+}
