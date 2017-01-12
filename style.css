@@ -102,7 +102,6 @@ hr {
 
 .paragraph {
   margin-bottom: 21px;
-  text-align: center;
 }
 
 .supporting-pg-paragraph {
@@ -177,10 +176,12 @@ hr {
   text-align: left;
 }
 
-a {
+.navbar a, .logo a {
   text-decoration: none;
    color: #666666;
 }
+
+
 .selected {
   border-bottom: 2px solid #608ecc;
   padding-bottom: 11px
